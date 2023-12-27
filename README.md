@@ -1,4 +1,4 @@
-# Redirect list map
+# haproxy-redirect-map
 
 Build HAProxy [Map file](https://www.haproxy.com/documentation/haproxy-configuration-tutorials/core-concepts/map-files/) 
 from CSV file.
